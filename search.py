@@ -42,6 +42,7 @@ def dfs(graph, start): #dict, int
     
     return
 
+#틀린 알고리즘
 def bfs(graph, start):
     print("BFS: ", end="")
     vist = []
